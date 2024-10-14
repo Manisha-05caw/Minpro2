@@ -3,11 +3,15 @@ Nama : Syawe Manisha P. Siregar
 NIM  : 2409116058
 
 # Flowchart
+
 ![Flowchart Minpro(2) drawio (1)](https://github.com/user-attachments/assets/6ec46487-381c-4af3-bee6-c625606e8444)
 
 
+
 # Input
+
 ![Screenshot 2024-10-15 004118](https://github.com/user-attachments/assets/9c9a8635-ee0a-440f-bc5e-fee094f4bc8c)
+
 Program di atas adalah proram yang menampilkan menu utama yang terdapat pada website AIS Unmul. Program tersebut menawarkan 3 pilihan kepada user yaitu sebagai Admin, sebagai Mahasiswa, dan Program untuk keluar dari website.
 Program main -> merupakan program yang dijalankan terlebih dahulu ketika program dimulai, sehingga tidak berpengaruh jika di letakkan di atas maupun di bawah.
 while True -> merupakan program untuk melakukan looping. Loop akan tetap berjalan sampai pengguna memilih opsi 3, dikarenakan opsi 3 telah diakhiri program break yang dapat menghentikan looping.
@@ -91,7 +95,7 @@ while True digunakan agar program dapat berjalan secara berulang, hingga penggun
 Jika pengguna menginput diluar opsi (1-4), maka program yang berjalan akan mencetak "Pilihan tidak valid, coba lagi".
 
 
-   ![Screenshot 2024-10-15 025919](https://github.com/user-attachments/assets/dc194e96-9584-4c35-b0e4-8ff5f608dd82)
+![Screenshot 2024-10-15 025919](https://github.com/user-attachments/assets/dc194e96-9584-4c35-b0e4-8ff5f608dd82)
 
 Program def mendefiniskan fungsi tambah_ke_krs():
 untuk menambahkan matkul ke krs perlu menginput kode matkul. Jika kode yang di input benar maka program akan mencetak nama matkul yang berhasil ditambah ke dalam krs dan jika kode yang di input tidak sesuai maka program akan mencetak "mata kuliah tidak ditemukan".
@@ -121,6 +125,7 @@ Gambar diatas merupakan hasil rombak dari program yang telah dilakukan sebelumny
 kemudian opsi 5 yaitu keluar, program akan keluar dari menu admin dan harus melakukan pemilihan user.
 
 ![Screenshot 2024-10-15 034831](https://github.com/user-attachments/assets/33142b55-5be2-4825-a600-8ef7bce14994)
+
 Kemudian di opsi 2 kita memasuki user mahasiswa
 seperti sebelumnya program menampilkan Daftar semua mata kuliah
 
